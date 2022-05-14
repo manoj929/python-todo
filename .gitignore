@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+
+project/share
+project/lib
+project/bin
+project/lib64
